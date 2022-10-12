@@ -1,0 +1,14 @@
+.cell {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    font-weight: normal;
+    color: #333;
+    text-align: left;
+    padding: 15px 10px;
+}
+
+.filter_element {
+    padding: 3px;
+}

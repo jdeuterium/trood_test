@@ -1,0 +1,17 @@
+.root {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    user-select: none;
+}
+
+.arrow {
+    font-size: 22px;
+    line-height: 10px;
+    opacity: .5;
+    cursor: pointer;
+}
+
+.arrow_active {
+    opacity: 1;
+}

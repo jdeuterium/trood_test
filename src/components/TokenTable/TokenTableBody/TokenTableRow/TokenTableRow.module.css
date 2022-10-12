@@ -1,0 +1,23 @@
+.green {
+    background: #f1fef3;
+}
+
+.yellow {
+    background: #fdffe7;
+}
+
+.red {
+    background: #fff6f7;
+}
+
+.cell {
+    padding: 15px 10px;
+    border-bottom: solid 15px #fff;
+    font-weight: 600;
+}
+
+.project_name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

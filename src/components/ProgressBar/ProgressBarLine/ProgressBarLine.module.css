@@ -1,0 +1,4 @@
+.progressbar_line {
+    display: flex;
+    gap: 2px;
+}
